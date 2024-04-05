@@ -1,0 +1,1 @@
+print("This is aws linked service to be used for login v1")
